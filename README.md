@@ -41,7 +41,7 @@ git clone ##
 
 ### Contact
 
-If you want to contact with me you can reach me at [linkedin](www.linkedin.com/in/neeyal).
+If you want to contact with me you can reach me at [linkedin](https://www.linkedin.com/in/neeyal).
 
 ### License
 
