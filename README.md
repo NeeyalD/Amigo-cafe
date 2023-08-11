@@ -18,5 +18,4 @@
 
 If you want to contact with me you can reach me at [linkedin](https://www.linkedin.com/in/neeyal).
 
-### License
 
